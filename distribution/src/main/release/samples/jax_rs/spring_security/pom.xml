@@ -89,7 +89,7 @@
         <dependency>
             <groupId>org.apache.cxf</groupId>
             <artifactId>cxf-rt-transports-http</artifactId>
-            <version>3.4.0-SNAPSHOT</version>
+            <version>3.4.4</version>
         </dependency>
         <!-- This dependency is needed if you're using the Jetty container -->
         <dependency>
