@@ -30,7 +30,7 @@
     </parent>
     <properties>
         <cxf.version>${project.version}</cxf.version>
-        <cxf.jetty8.version>8.1.22.v20160922</cxf.jetty8.version>
+        <cxf.jetty8.version>9.4.33.v20201020</cxf.jetty8.version>
         <cxf.jetty.version>${cxf.jetty8.version}</cxf.jetty.version>
     </properties>
     <profiles>
