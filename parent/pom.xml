@@ -1094,7 +1094,7 @@
             <dependency>
                 <groupId>org.eclipse.jetty</groupId>
                 <artifactId>jetty-webapp</artifactId>
-                <version>${cxf.jetty.version}</version>
+                <version>9.4.41.v20210516</version>
             </dependency>
             <dependency>
                 <groupId>org.eclipse.jetty</groupId>
