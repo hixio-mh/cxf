@@ -87,7 +87,7 @@
         <cxf.aspectj.version>1.9.1</cxf.aspectj.version>
         <cxf.atmosphere.version.range>[2.4,3.0)</cxf.atmosphere.version.range>
         <cxf.atmosphere.version>2.5.15</cxf.atmosphere.version>
-        <cxf.bcprov.version>1.66</cxf.bcprov.version>
+        <cxf.bcprov.version>1.67</cxf.bcprov.version>
         <cxf.brave.reporter.version>2.12.1</cxf.brave.reporter.version>
         <cxf.brave.version>5.10.1</cxf.brave.version>
         <cxf.brave.zipkin.version>2.19.3</cxf.brave.zipkin.version>
@@ -218,7 +218,7 @@
         <cxf.woodstox.core.version>6.2.0</cxf.woodstox.core.version>
         <cxf.woodstox.stax2-api.version>4.2</cxf.woodstox.stax2-api.version>
         <cxf.wsdl4j.version>1.6.3</cxf.wsdl4j.version>
-        <cxf.wss4j.version>2.3.0</cxf.wss4j.version>
+        <cxf.wss4j.version>2.3.2</cxf.wss4j.version>
         <cxf.xalan.version>2.7.2</cxf.xalan.version>
         <cxf.xerces.version>2.12.0</cxf.xerces.version>
         <cxf.xmlschema.version>2.2.5</cxf.xmlschema.version>
