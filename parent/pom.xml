@@ -86,7 +86,7 @@
         <cxf.arquillian.weld.container.version>2.0.1.Final</cxf.arquillian.weld.container.version>
         <cxf.aspectj.version>1.9.1</cxf.aspectj.version>
         <cxf.atmosphere.version.range>[2.4,3.0)</cxf.atmosphere.version.range>
-        <cxf.atmosphere.version>2.5.15</cxf.atmosphere.version>
+        <cxf.atmosphere.version>2.7.2</cxf.atmosphere.version>
         <cxf.bcprov.version>1.66</cxf.bcprov.version>
         <cxf.brave.reporter.version>2.12.1</cxf.brave.reporter.version>
         <cxf.brave.version>5.10.1</cxf.brave.version>
