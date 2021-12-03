@@ -28,7 +28,7 @@
         <version>3.4.0-SNAPSHOT</version>
     </parent>
     <properties>
-        <cxf.artemis.version>2.10.1</cxf.artemis.version>
+        <cxf.artemis.version>2.18.0</cxf.artemis.version>
         <cxf.version>${project.version}</cxf.version>
         <wsdl.file>${basedir}/src/main/config/jms_greeter.wsdl</wsdl.file>
     </properties>
@@ -154,7 +154,7 @@
         <dependency>
             <groupId>org.apache.activemq</groupId>
             <artifactId>artemis-openwire-protocol</artifactId>
-            <version>${cxf.artemis.version}</version>
+            <version>2.18.0</version>
         </dependency>
 
     </dependencies>
