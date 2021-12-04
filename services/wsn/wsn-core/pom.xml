@@ -33,7 +33,7 @@
     </parent>
     <properties>
         <cxf.module.name>org.apache.cxf.wsn.core</cxf.module.name>
-        <cxf.server.launcher.vmargs />
+        <cxf.server.launcher.vmargs/>
         <cxf.surefire.enable.assertions>false</cxf.surefire.enable.assertions>
     </properties>
     <dependencies>
@@ -63,7 +63,7 @@
         <dependency>
             <groupId>org.apache.cxf.services.wsn</groupId>
             <artifactId>cxf-services-wsn-api</artifactId>
-            <version>${project.version}</version>
+            <version>3.4.5</version>
         </dependency>
         <dependency>
             <groupId>org.apache.cxf</groupId>
